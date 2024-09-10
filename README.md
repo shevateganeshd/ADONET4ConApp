@@ -9,4 +9,4 @@ CREATE TABLE [dbo].[Employee](
 	[PhoneNo] [nvarchar](10) NOT NULL,
 	[BirthDate] [date] NULL,
 	[IsActive] [bit] NULL
-)
+);
